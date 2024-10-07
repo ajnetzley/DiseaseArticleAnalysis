@@ -29,7 +29,7 @@ The Article Page Views API  was the [Wikimedia REST API](https://www.mediawiki.o
 │   └── data_acquisition.ipynb                            # Notebook to perform the API calls and generate the cleaned data for the different access types
 ├── LICENSE                                               # License documentation
 └── README.md                                             # README for the repo
-
+```
 
 ## Data Schema
 The output json files generated and stored in the "data_clean" folder have the following schema:
