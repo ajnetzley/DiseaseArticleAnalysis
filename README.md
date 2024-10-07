@@ -12,6 +12,7 @@ The Article Page Views API  was the [Wikimedia REST API](https://www.mediawiki.o
 
 
 ## Repository Structure
+```markdown
 
 ├── data_clean/                                           # Folder containing the cleaned data
 │   ├── rare-disease_monthly_combined_201507_202409.json  # JSON with the page view counts for both access types (mobile and desktop)
@@ -33,7 +34,7 @@ The Article Page Views API  was the [Wikimedia REST API](https://www.mediawiki.o
 ## Data Schema
 The output json files generated and stored in the "data_clean" folder have the following schema:
 
-'''json
+```json
 {
     "type": "object",
     "properties":{
