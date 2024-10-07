@@ -22,7 +22,7 @@ The list of diseases as the source data was gathered from the National Organizat
 │   ├── figure1.png                                       # PNG with the Maximum Average and Minimum Average figure
 │   ├── figure2.png                                       # PNG with the Top 10 Peak Page Views figure
 │   └── figure3.png                                       # PNG with the Fewest Months of Data figure
-├── src/                                                  # Source code
+├── notebooks/                                            # Source code
 │   ├── analysis.ipynb                                    # Notebook to perform the data processing and graphing of the three figures
 │   └── data_acquisition.ipynb                            # Notebook to perform the API calls and generate the cleaned data for the different access types
 ├── LICENSE                                               # License documentation
