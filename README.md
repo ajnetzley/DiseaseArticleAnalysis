@@ -6,9 +6,7 @@ This repository contains the contents of an analysis into page views of specifie
 - Figure 3: Fewest Months of Data
 
 ## Licenses and API Documentation
-The source data is used under #TODO
-
-The Article Page Views API  was the [Wikimedia REST API](https://www.mediawiki.org/wiki/Wikimedia_REST_API) (Terms of Use [Here](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use)). Here, the terms of use applies to the dataset I have created in that I am Reading, Printing, Contributing To and Editing the data from Wikimedia, all while engaging in lawful behavior and doing no harm. Additionally, the API code was adapted from an example developed by Dr. David W. McDonald for use in DATA 512, a course in the UW MS Data Science degree program. This code is provided under the [Creative Commons](https://creativecommons.org) [CC-BY license](https://creativecommons.org/licenses/by/4.0/). Revision 1.3 - August 16, 2024
+The list of diseases as the source data was gathered from the National Organizatiaon for Rare Disorders ([Terms of Use](https://rarediseases.org/terms-conditions/)). The Article Page Views API  was the [Wikimedia REST API](https://www.mediawiki.org/wiki/Wikimedia_REST_API) (Terms of Use [Here](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use)). Here, the terms of use applies to the dataset I have created in that I am Reading, Printing, Contributing To and Editing the data from Wikimedia, all while engaging in lawful behavior and doing no harm. Additionally, the API code was adapted from an example developed by Dr. David W. McDonald for use in DATA 512, a course in the UW MS Data Science degree program. This code is provided under the [Creative Commons](https://creativecommons.org) [CC-BY license](https://creativecommons.org/licenses/by/4.0/). Revision 1.3 - August 16, 2024
 
 
 ## Repository Structure
