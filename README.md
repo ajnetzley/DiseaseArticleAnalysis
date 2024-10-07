@@ -71,6 +71,6 @@ The output json files generated and stored in the "data_clean" folder have the f
     }
 }
 
-
+```
 ## Additional Notes
 Overall, one special consideration when using the repo or data would be to consider investigating improved methods for executing the API calls. Currently, the code takes ~1.5 hrs to complete all the API calls, which could likely be optimized. Additionally, there are a handful of urls from the raw data that were unable to be accessed, so future usage should note that there may be some article names without corresponding page view data.
