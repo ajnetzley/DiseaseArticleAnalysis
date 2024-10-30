@@ -1,4 +1,4 @@
-# Data 512 Homework 1
+# Disease Article Analysis
 ## Overview
 This repository contains the contents of an analysis into page views of specified disease articles on Wikimedia from July 2015 up until the present. Specifically, this analysis performs API calls to collect the number of page views per article, per month, and per access method. Additionally, this analysis generates three figures, showcasing:
 - Figure 1: Maximum Average and Minimum Average
